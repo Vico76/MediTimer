@@ -1,0 +1,5 @@
+{
+  "name": "MediTimer",
+  "description": "Une application de suivi de médication simple pour gérer la prise d'Ibuprofène et de Doliprane avec un délai de sécurité de 6 heures.",
+  "requestFramePermissions": []
+}
